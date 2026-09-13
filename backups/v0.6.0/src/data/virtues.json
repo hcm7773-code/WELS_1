@@ -1,0 +1,260 @@
+[
+  {
+    "id": "V001",
+    "code": "courage",
+    "order": 1,
+    "nameZh": "勇氣",
+    "nameEn": "Courage",
+    "canonicalNameZh": "勇氣",
+    "canonicalNameEn": "Courage",
+    "aliasesZh": [
+      "勇敢",
+      "無畏"
+    ],
+    "aliasesEn": [
+      "Bravery",
+      "Boldness"
+    ],
+    "definitionZh": "在恐懼、同儕壓力或未知困難面前，不隨波逐流，堅定選擇站在真理與公義這一邊。",
+    "definitionEn": "Standing firm for what is right despite fear and peer pressure, trusting wholeheartedly in God.",
+    "description": "勇氣是基督徒生命的標竿品格。真正的勇氣不是毫無畏懼，而是即使內心害怕，依然深信神的名超越一切挑戰，挺身而出做正確的事。",
+    "coreBibleVerses": [
+      "VERSE_001_1SAM17_45",
+      "VERSE_002_JOSH1_9"
+    ],
+    "relatedBibleStories": [
+      "STORY_001_DAVID_GOLIATH"
+    ],
+    "relatedCharacters": [
+      "大衛 (David)",
+      "歌利亞 (Goliath)",
+      "約書亞 (Joshua)"
+    ],
+    "reflectionQuestions": [
+      "你最近害怕面對什麼事情？",
+      "如果你是 David，你會怎麼做？",
+      "在學校生活中，勇氣可以如何實踐？"
+    ],
+    "practiceActivities": [
+      "ACT_001_COURAGE_DAILY"
+    ],
+    "assessmentIds": [
+      "ASSESS_V001_Q1",
+      "ASSESS_V001_Q2",
+      "ASSESS_V001_Q3"
+    ],
+    "theme": {
+      "primary": "bg-amber-600 hover:bg-amber-700 text-white",
+      "bgLight": "bg-amber-50",
+      "border": "border-amber-200",
+      "text": "text-amber-800",
+      "badgeBg": "bg-amber-100 text-amber-900 border-amber-300",
+      "accent": "amber",
+      "iconName": "ShieldAlert"
+    }
+  },
+  {
+    "id": "V002",
+    "code": "honesty",
+    "order": 2,
+    "nameZh": "誠實",
+    "nameEn": "Honesty",
+    "canonicalNameZh": "誠實",
+    "canonicalNameEn": "Honesty",
+    "aliasesZh": [
+      "正直",
+      "真實"
+    ],
+    "aliasesEn": [
+      "Integrity",
+      "Truthfulness"
+    ],
+    "definitionZh": "內心真實、言行一致，即使說實話需要付出代價也不弄虛作假。",
+    "definitionEn": "Speaking the truth in love and being trustworthy in words and actions, even when it is difficult.",
+    "description": "誠實是建立人際信任與美好品格的基石。在面對誘惑或利益衝突時，選擇光明磊落，以誠實的言行得神的喜悅。",
+    "coreBibleVerses": [
+      "VERSE_003_PROV12_22"
+    ],
+    "relatedBibleStories": [
+      "STORY_002_DANIEL_INTEGRITY"
+    ],
+    "relatedCharacters": [
+      "但以理 (Daniel)"
+    ],
+    "reflectionQuestions": [
+      "在考試或同儕交往中，你曾為了迎合別人或避免被罵而說謊過嗎？",
+      "如果說實話會讓朋友不高興，你會如何有智慧地表達真理？",
+      "在日常生活中，有哪一件小事可以開始練習言行一致？"
+    ],
+    "practiceActivities": [
+      "ACT_002_HONESTY_TRUTH"
+    ],
+    "assessmentIds": [
+      "ASSESS_V002_Q1",
+      "ASSESS_V002_Q2",
+      "ASSESS_V002_Q3"
+    ],
+    "theme": {
+      "primary": "bg-emerald-600 hover:bg-emerald-700 text-white",
+      "bgLight": "bg-emerald-50",
+      "border": "border-emerald-200",
+      "text": "text-emerald-800",
+      "badgeBg": "bg-emerald-100 text-emerald-900 border-emerald-300",
+      "accent": "emerald",
+      "iconName": "CheckCircle2"
+    }
+  },
+  {
+    "id": "V003",
+    "code": "compassion",
+    "order": 3,
+    "nameZh": "同情心",
+    "nameEn": "Compassion",
+    "canonicalNameZh": "同情心",
+    "canonicalNameEn": "Compassion",
+    "aliasesZh": [
+      "憐憫",
+      "慈心"
+    ],
+    "aliasesEn": [
+      "Mercy",
+      "Kindness"
+    ],
+    "definitionZh": "感同身受他人的軟弱與痛苦，主動跨出舒適圈給予實質的關懷與幫助。",
+    "definitionEn": "Feeling deep empathy for others in pain or need, taking practical action to help and heal.",
+    "description": "同情心（憐憫）不是居高臨下的施捨，而是效法耶穌基督的慈愛心腸，看見他人的需要，主動伸出溫暖的援手。",
+    "coreBibleVerses": [
+      "VERSE_004_MICAH6_8"
+    ],
+    "relatedBibleStories": [
+      "STORY_003_GOOD_SAMARITAN"
+    ],
+    "relatedCharacters": [
+      "好撒馬利亞人 (Good Samaritan)"
+    ],
+    "reflectionQuestions": [
+      "在班上或走廊上看見孤單或哭泣的同學，你的第一反應是什麼？",
+      "如何跨越個人偏見，對平時不熟悉或性格不同的人展現善意？",
+      "今天你能為主動關心身邊的一個人做些什麼？"
+    ],
+    "practiceActivities": [
+      "ACT_003_COMPASSION_CARE"
+    ],
+    "assessmentIds": [
+      "ASSESS_V003_Q1",
+      "ASSESS_V003_Q2",
+      "ASSESS_V003_Q3"
+    ],
+    "theme": {
+      "primary": "bg-rose-600 hover:bg-rose-700 text-white",
+      "bgLight": "bg-rose-50",
+      "border": "border-rose-200",
+      "text": "text-rose-800",
+      "badgeBg": "bg-rose-100 text-rose-900 border-rose-300",
+      "accent": "rose",
+      "iconName": "HeartHandshake"
+    }
+  },
+  {
+    "id": "V004",
+    "code": "responsibility",
+    "order": 4,
+    "nameZh": "責任",
+    "nameEn": "Responsibility",
+    "canonicalNameZh": "責任",
+    "canonicalNameEn": "Responsibility",
+    "aliasesZh": [
+      "負責",
+      "忠心管家"
+    ],
+    "aliasesEn": [
+      "Faithfulness",
+      "Stewardship"
+    ],
+    "definitionZh": "忠心做好交託給自己的每一件大小任務，不卸責、不推託，對神對人坦蕩負責。",
+    "definitionEn": "Being faithful and dependable in every duty entrusted to you, without excuses.",
+    "description": "責任體現在把小事做好的忠心。無論在學業、家庭或團隊中，可靠的品格使人得享神與人的信任。",
+    "coreBibleVerses": [
+      "VERSE_005_COL3_23"
+    ],
+    "relatedBibleStories": [
+      "STORY_004_JOSEPH_STEWARD"
+    ],
+    "relatedCharacters": [
+      "約瑟 (Joseph)"
+    ],
+    "reflectionQuestions": [
+      "面臨困難作業或不喜歡的分組工作時，你如何對待自己的承諾？",
+      "聖經說在小事上忠心的大事也忠心，這對你的學業態度有何啟發？",
+      "今天你能在哪一項經常拖延的事上展現立即負責的行動？"
+    ],
+    "practiceActivities": [
+      "ACT_004_RESPONSIBILITY_FINISH"
+    ],
+    "assessmentIds": [
+      "ASSESS_V004_Q1",
+      "ASSESS_V004_Q2",
+      "ASSESS_V004_Q3"
+    ],
+    "theme": {
+      "primary": "bg-blue-600 hover:bg-blue-700 text-white",
+      "bgLight": "bg-blue-50",
+      "border": "border-blue-200",
+      "text": "text-blue-800",
+      "badgeBg": "bg-blue-100 text-blue-900 border-blue-300",
+      "accent": "blue",
+      "iconName": "Briefcase"
+    }
+  },
+  {
+    "id": "V005",
+    "code": "perseverance",
+    "order": 5,
+    "nameZh": "毅力",
+    "nameEn": "Perseverance",
+    "canonicalNameZh": "毅力",
+    "canonicalNameEn": "Perseverance",
+    "aliasesZh": [
+      "堅持",
+      "堅毅"
+    ],
+    "aliasesEn": [
+      "Endurance",
+      "Persistence"
+    ],
+    "definitionZh": "在逆境、疲憊或看不見即時成果時，因著對神的盼望持守善良與努力，直到收成之日。",
+    "definitionEn": "Continuing faithfully in doing good through hardship and fatigue, holding firm hope in God.",
+    "description": "毅力（堅持）不是盲目的固執，而是把信心扎根在神的信實應許中。跑盡當跑的路，在考驗中鍛鍊成熟品格。",
+    "coreBibleVerses": [
+      "VERSE_006_GAL6_9"
+    ],
+    "relatedBibleStories": [
+      "STORY_005_PAUL_FINISH_RACE"
+    ],
+    "relatedCharacters": [
+      "保羅 (Paul)"
+    ],
+    "reflectionQuestions": [
+      "當努力很久但成績或成果不如預期時，是什麼讓你想要放棄？",
+      "聖經提醒行善若不灰心到了時候就要收成，這如何安慰你的心？",
+      "今天你可以為一項想要放棄的好習慣做怎樣的毅力堅持禱告？"
+    ],
+    "practiceActivities": [
+      "ACT_005_PERSEVERANCE_PERSIST"
+    ],
+    "assessmentIds": [
+      "ASSESS_V005_Q1",
+      "ASSESS_V005_Q2",
+      "ASSESS_V005_Q3"
+    ],
+    "theme": {
+      "primary": "bg-purple-600 hover:bg-purple-700 text-white",
+      "bgLight": "bg-purple-50",
+      "border": "border-purple-200",
+      "text": "text-purple-800",
+      "badgeBg": "bg-purple-100 text-purple-900 border-purple-300",
+      "accent": "purple",
+      "iconName": "Compass"
+    }
+  }
+]

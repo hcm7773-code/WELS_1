@@ -1,0 +1,416 @@
+[
+  {
+    "lessonId": "LESSON_V001_COURAGE",
+    "virtueId": "V001",
+    "titleZh": "勇氣 Courage：少年大衛迎戰巨人歌利亞",
+    "titleEn": "Courage: David and Goliath",
+    "steps": [
+      {
+        "id": 1,
+        "key": "welcome",
+        "titleZh": "歡迎導讀",
+        "titleEn": "Welcome",
+        "shortDescZh": "今日美德：勇氣 Courage"
+      },
+      {
+        "id": 2,
+        "key": "story",
+        "titleZh": "聖經故事",
+        "titleEn": "Bible Story",
+        "shortDescZh": "大衛與歌利亞 (David & Goliath)"
+      },
+      {
+        "id": 3,
+        "key": "verse",
+        "titleZh": "核心金句",
+        "titleEn": "Bible Verse",
+        "shortDescZh": "撒母耳記上 17:45"
+      },
+      {
+        "id": 4,
+        "key": "reflect",
+        "titleZh": "深思時間",
+        "titleEn": "Think & Reflect",
+        "shortDescZh": "3 個生活反思提問"
+      },
+      {
+        "id": 5,
+        "key": "challenge",
+        "titleZh": "勇氣挑戰",
+        "titleEn": "Courage Challenge",
+        "shortDescZh": "今日品格實踐行動"
+      },
+      {
+        "id": 6,
+        "key": "quiz",
+        "titleZh": "情境測驗",
+        "titleEn": "Mini Quiz",
+        "shortDescZh": "3 題校園情境選擇題"
+      },
+      {
+        "id": 7,
+        "key": "completion",
+        "titleZh": "結業成就",
+        "titleEn": "Completion",
+        "shortDescZh": "總結與勉勵"
+      }
+    ],
+    "bibleStoryId": "STORY_001_DAVID_GOLIATH",
+    "verseIds": [
+      "VERSE_001_1SAM17_45",
+      "VERSE_002_JOSH1_9"
+    ],
+    "reflectionQuestions": [
+      {
+        "id": "q1-fear",
+        "number": 1,
+        "questionZh": "你最近害怕面對什麼事情？",
+        "promptZh": "在課業、考試、上台發表、同儕眼光或家庭生活中，有什麼讓你感到緊張、想逃避或害怕的「巨人」嗎？",
+        "placeholderZh": "例如：最近英文上台口頭報告讓我很緊張，我總擔心說錯會被台下同學笑...",
+        "suggestedThoughts": [
+          "擔心表現不夠好被同儕評價",
+          "害怕在新環境或陌生小組中開口",
+          "面臨重大考試或競賽的壓力",
+          "不敢拒絕朋友不合理的要求"
+        ]
+      },
+      {
+        "id": "q2-david-choice",
+        "number": 2,
+        "questionZh": "如果你是 David，你會怎麼做？",
+        "promptZh": "當所有人都說你不行、甚至嘲笑你太年輕，而眼前的敵人又如此龐大時，你會選擇退縮，還是像大衛一樣依靠神迎戰？",
+        "placeholderZh": "例如：如果我是大衛，一開始我可能會想躲在哥哥後面；但我希望我也能像他一樣，記得神以前是怎麼保護我的...",
+        "suggestedThoughts": [
+          "雖然害怕，但我會先禱告求神給我勇氣",
+          "我會堅持做對的事，即使身邊沒有人支持我",
+          "我會善用神給我的真實恩賜，不勉強去穿別人的重甲",
+          "我會相信神的名遠大於我眼前的任何困難"
+        ]
+      },
+      {
+        "id": "q3-school-life",
+        "number": 3,
+        "questionZh": "在學校生活中，勇氣可以如何實踐？",
+        "promptZh": "勇氣不一定是做驚天動地的大事。在教室、走廊、社團或線上群組裡，你可以如何跨出一小步活出剛強仁愛的品格？",
+        "placeholderZh": "例如：當我看見有同學被冷落或起鬨時，我願意主動走過去坐在他旁邊，陪他聊聊天...",
+        "suggestedThoughts": [
+          "當別人被排擠時，主動走過去說一聲早安",
+          "在大家都在講八卦時，勇敢選擇不附和或離開",
+          "遇到不懂的問題時，鼓起勇氣舉手請教老師",
+          "做錯事情時，勇敢承認並真誠向對方道歉"
+        ]
+      }
+    ],
+    "activityId": "ACT_001_COURAGE_DAILY",
+    "assessmentId": "ASSESS_V001_Q1",
+    "assessmentIds": [
+      "ASSESS_V001_Q1",
+      "ASSESS_V001_Q2",
+      "ASSESS_V001_Q3"
+    ],
+    "welcomeData": {
+      "bannerTitleZh": "今日美德：勇氣 Courage",
+      "subtitleZh": "透過聖經人物大衛的生命經歷，在恐懼與壓力面前，學習倚靠神做對的事。",
+      "definitionZh": "在恐懼、同儕壓力或未知困難面前，不隨波逐流，堅定選擇站在真理與公義這一邊。",
+      "definitionEn": "Standing firm for what is right despite fear and peer pressure, trusting wholeheartedly in God.",
+      "estimatedMinutes": 8,
+      "learningGoals": [
+        "認識大衛面對巨人歌利亞的歷史故事與得勝秘訣",
+        "熟讀並背誦撒母耳記上 17:45 核心經文",
+        "透過 3 個深度反思問題，盤點生活中的「巨人」",
+        "承諾一項具體可行的校園「勇氣微行動」",
+        "通過 3 題校園情境測驗，檢驗學習成果"
+      ],
+      "warmupQuestionZh": "當身邊的同學都在做某件不妥當的事，或者你看見有人被冷落時，你曾感到害怕或猶豫過嗎？今天這堂課正是為你預備的！"
+    },
+    "completionData": {
+      "congratsTitleZh": "恭喜！你完成了 Courage 勇氣課程。",
+      "congratsSubtitleZh": "你已經完成大衛與歌利亞故事研讀、金句反思、生活挑戰承諾與情境測驗！",
+      "encouragementMessageZh": "太棒了！親愛的同學，就像年少的大衛一樣，你不需要等長大成為大人物才有勇氣。今天，在你的班級、家庭與社群中，只要你願意倚靠神選擇誠實、友愛與堅定，你就是校園裡活出榮耀的勇者！",
+      "bibleBlessingZh": "「你當剛強壯膽！不要懼怕，也不要驚惶；因為你無論往哪裡去，耶和華你的神必與你同在。」— 約書亞記 1:9"
+    }
+  },
+  {
+    "lessonId": "LESSON_V002_HONESTY",
+    "virtueId": "V002",
+    "titleZh": "誠實 Honesty：但以理純全無偽的品格",
+    "titleEn": "Honesty: Daniel's Pure Integrity",
+    "steps": [
+      { "id": 1, "key": "welcome", "titleZh": "歡迎導讀", "titleEn": "Welcome", "shortDescZh": "今日美德：誠實 Honesty" },
+      { "id": 2, "key": "story", "titleZh": "聖經故事", "titleEn": "Bible Story", "shortDescZh": "但以理在巴比倫 (Daniel's Integrity)" },
+      { "id": 3, "key": "verse", "titleZh": "核心金句", "titleEn": "Bible Verse", "shortDescZh": "箴言 12:22" },
+      { "id": 4, "key": "reflect", "titleZh": "深思時間", "titleEn": "Think & Reflect", "shortDescZh": "反思誠實生活的代價與祝福" },
+      { "id": 5, "key": "challenge", "titleZh": "誠實挑戰", "titleEn": "Honesty Challenge", "shortDescZh": "今日誠實正直操練" },
+      { "id": 6, "key": "quiz", "titleZh": "情境測驗", "titleEn": "Mini Quiz", "shortDescZh": "情境測驗" },
+      { "id": 7, "key": "completion", "titleZh": "結業成就", "titleEn": "Completion", "shortDescZh": "總結與勉勵" }
+    ],
+    "bibleStoryId": "STORY_002_DANIEL_INTEGRITY",
+    "verseIds": [
+      "VERSE_003_PROV12_22"
+    ],
+    "reflectionQuestions": [
+      {
+        "id": "q1-honesty-struggle",
+        "number": 1,
+        "questionZh": "在考試或同儕交往中，你曾為了迎合別人或避免被罵而說謊過嗎？",
+        "promptZh": "誠實有時需要勇氣，想一想當時讓你不敢說真話的原因是什麼？",
+        "placeholderZh": "例如：以前有一次沒寫完作業，因為怕被老師罵就說忘了帶...",
+        "suggestedThoughts": [
+          "害怕失去朋友的認同",
+          "害怕承擔做錯事的後果",
+          "想讓自己在別人眼中看起來更優秀"
+        ]
+      },
+      {
+        "id": "q2-daniel-reflect",
+        "number": 2,
+        "questionZh": "如果說實話會讓朋友不高興，你會如何有智慧地表達真理？",
+        "promptZh": "但以理在面對國王的命令時，既有原則又充滿禮貌與智慧。",
+        "placeholderZh": "我會先表達對朋友的關心，然後溫和說明我的底線...",
+        "suggestedThoughts": [
+          "用愛心說誠實話，不帶指責口氣",
+          "清楚說明自己的信念，尋求雙贏的解法"
+        ]
+      },
+      {
+        "id": "q3-daily-integrity",
+        "number": 3,
+        "questionZh": "在日常生活中，有哪一件小事可以開始練習言行一致？",
+        "promptZh": "從小事做起，累積值得信賴的品格信用。",
+        "placeholderZh": "答應別人的事盡全力做到，做不到時及早說明...",
+        "suggestedThoughts": [
+          "準時赴約與繳交作業",
+          "不背地裡講同學壞話"
+        ]
+      }
+    ],
+    "activityId": "ACT_002_HONESTY_TRUTH",
+    "assessmentId": "ASSESS_V002_Q1",
+    "assessmentIds": [
+      "ASSESS_V002_Q1",
+      "ASSESS_V002_Q2",
+      "ASSESS_V002_Q3"
+    ],
+    "welcomeData": {
+      "bannerTitleZh": "今日美德：誠實 Honesty",
+      "subtitleZh": "學習但以理一生無可指責的正直，在黑暗世代中作光明的見證。",
+      "definitionZh": "內心真實、言行一致，即使說實話需要付出代價也不弄虛作假。",
+      "definitionEn": "Speaking the truth in love and being trustworthy in words and actions, even when it is difficult.",
+      "estimatedMinutes": 8,
+      "learningGoals": [
+        "認識但以理在異邦朝廷持守正直的故事",
+        "熟記箴言 12:22 經文",
+        "檢視自己在言語與學業上的誠信度",
+        "完成今日誠實正直挑戰"
+      ],
+      "warmupQuestionZh": "你覺得「說謊」和「隱瞞部分真相」有差別嗎？神如何看待我們心中的誠實？"
+    },
+    "completionData": {
+      "congratsTitleZh": "恭喜！你完成了 Honesty 誠實課程。",
+      "congratsSubtitleZh": "你已經建立起如但以理般堅定純全的品格基石！",
+      "encouragementMessageZh": "誠實的人在神眼中如同珍珠般寶貴。願你在每一次選擇中，都勇敢站在光中！",
+      "bibleBlessingZh": "「說謊言的嘴為耶和華所憎惡；行事誠實的，為他所喜悅。」— 箴言 12:22"
+    }
+  },
+  {
+    "lessonId": "LESSON_V003_COMPASSION",
+    "virtueId": "V003",
+    "titleZh": "同情心 Compassion：好撒馬利亞人的慈心與憐憫",
+    "titleEn": "Compassion: The Good Samaritan",
+    "steps": [
+      { "id": 1, "key": "welcome", "titleZh": "歡迎導讀", "titleEn": "Welcome", "shortDescZh": "今日美德：同情心 Compassion" },
+      { "id": 2, "key": "story", "titleZh": "聖經故事", "titleEn": "Bible Story", "shortDescZh": "好撒馬利亞人 (The Good Samaritan)" },
+      { "id": 3, "key": "verse", "titleZh": "核心金句", "titleEn": "Bible Verse", "shortDescZh": "彌迦書 6:8" },
+      { "id": 4, "key": "reflect", "titleZh": "深思時間", "titleEn": "Think & Reflect", "shortDescZh": "看見別人的痛與需要" },
+      { "id": 5, "key": "challenge", "titleZh": "同情心挑戰", "titleEn": "Compassion Challenge", "shortDescZh": "今日送暖行動" },
+      { "id": 6, "key": "quiz", "titleZh": "情境測驗", "titleEn": "Mini Quiz", "shortDescZh": "情境測驗" },
+      { "id": 7, "key": "completion", "titleZh": "結業成就", "titleEn": "Completion", "shortDescZh": "總結與勉勵" }
+    ],
+    "bibleStoryId": "STORY_003_GOOD_SAMARITAN",
+    "verseIds": [
+      "VERSE_004_MICAH6_8"
+    ],
+    "reflectionQuestions": [
+      {
+        "id": "q1-see-need",
+        "number": 1,
+        "questionZh": "在班上或走廊上看見孤單或哭泣的同學，你的第一反應是什麼？",
+        "promptZh": "我們是會像祭司一樣繞道而行，還是停下腳步？",
+        "placeholderZh": "有時候會覺得尷尬不敢上前，但心裡其實很想幫他...",
+        "suggestedThoughts": ["打破冷漠", "跨出一步問候"]
+      },
+      {
+        "id": "q2-overcome-bias",
+        "number": 2,
+        "questionZh": "如何跨越個人偏見，對平時不熟悉或性格不同的人展現善意？",
+        "promptZh": "耶穌教導我們連素不相識或被視為仇敵的人都要以愛對待。",
+        "placeholderZh": "學習看見每個人都是神所愛的寶貴生命...",
+        "suggestedThoughts": ["放下成見", "主動接納"]
+      },
+      {
+        "id": "q3-act-of-mercy",
+        "number": 3,
+        "questionZh": "今天你能為主動關心身邊的一個人做些什麼？",
+        "promptZh": "一個微笑、一瓶水或一句問候都能傳遞神的愛。",
+        "placeholderZh": "今天午休時主動問候那位轉學來的同學...",
+        "suggestedThoughts": ["即刻行動", "傳遞溫暖"]
+      }
+    ],
+    "activityId": "ACT_003_COMPASSION_CARE",
+    "assessmentId": "ASSESS_V003_Q1",
+    "assessmentIds": [
+      "ASSESS_V003_Q1",
+      "ASSESS_V003_Q2",
+      "ASSESS_V003_Q3"
+    ],
+    "welcomeData": {
+      "bannerTitleZh": "今日美德：同情心 Compassion",
+      "subtitleZh": "感同身受他人的軟弱與痛苦，主動跨出舒適圈給予實質的關懷與幫助。",
+      "definitionZh": "感同身受他人的軟弱與痛苦，主動跨出舒適圈給予實質的關懷與幫助。",
+      "definitionEn": "Feeling deep empathy for others in pain or need, taking practical action to help and heal.",
+      "estimatedMinutes": 8,
+      "learningGoals": ["認識好撒馬利亞人比喻", "默記彌迦書 6:8", "實踐校園關懷善行"],
+      "warmupQuestionZh": "你曾被陌生人或不熟悉的人溫暖關心過嗎？那是什麼感受？"
+    },
+    "completionData": {
+      "congratsTitleZh": "恭喜！你完成了 Compassion 同情心課程。",
+      "congratsSubtitleZh": "你已經學會以基督的心腸去看見並撫平他人的創傷！",
+      "encouragementMessageZh": "世人要看見神的愛，常常是藉著你的溫暖擁抱與雙手！",
+      "bibleBlessingZh": "「世人哪，耶和華已指示你何為善。只要你行公義，好憐憫，存謙卑的心，與你的神同行。」— 彌迦書 6:8"
+    }
+  },
+  {
+    "lessonId": "LESSON_V004_RESPONSIBILITY",
+    "virtueId": "V004",
+    "titleZh": "責任 Responsibility：約瑟在患難中的忠心職守",
+    "titleEn": "Responsibility: Joseph the Faithful Steward",
+    "steps": [
+      { "id": 1, "key": "welcome", "titleZh": "歡迎導讀", "titleEn": "Welcome", "shortDescZh": "今日美德：責任 Responsibility" },
+      { "id": 2, "key": "story", "titleZh": "聖經故事", "titleEn": "Bible Story", "shortDescZh": "約瑟的管家忠心 (Joseph's Stewardship)" },
+      { "id": 3, "key": "verse", "titleZh": "核心金句", "titleEn": "Bible Verse", "shortDescZh": "歌羅西書 3:23" },
+      { "id": 4, "key": "reflect", "titleZh": "深思時間", "titleEn": "Think & Reflect", "shortDescZh": "做在暗處也如給主做" },
+      { "id": 5, "key": "challenge", "titleZh": "責任挑戰", "titleEn": "Responsibility Challenge", "shortDescZh": "今日克服拖延任務" },
+      { "id": 6, "key": "quiz", "titleZh": "情境測驗", "titleEn": "Mini Quiz", "shortDescZh": "情境測驗" },
+      { "id": 7, "key": "completion", "titleZh": "結業成就", "titleEn": "Completion", "shortDescZh": "總結與勉勵" }
+    ],
+    "bibleStoryId": "STORY_004_JOSEPH_STEWARD",
+    "verseIds": [
+      "VERSE_005_COL3_23"
+    ],
+    "reflectionQuestions": [
+      {
+        "id": "q1-duty-commitment",
+        "number": 1,
+        "questionZh": "面臨困難作業或不喜歡的分組工作時，你如何對待自己的承諾？",
+        "promptZh": "負責任的人即使在沒人監督的時刻依然認真。",
+        "placeholderZh": "認真完成自己的部分，不讓組員承擔自己的怠惰...",
+        "suggestedThoughts": ["持守承諾", "積極分擔"]
+      },
+      {
+        "id": "q2-small-things",
+        "number": 2,
+        "questionZh": "聖經說在小事上忠心的大事也忠心，這對你的學業態度有何啟發？",
+        "promptZh": "把每一樣日常瑣事看作神在雕琢你的品格。",
+        "placeholderZh": "連整理書包和交作業這樣的小事都認真對待...",
+        "suggestedThoughts": ["扎實基礎", "敬畏神"]
+      },
+      {
+        "id": "q3-stop-procrastinating",
+        "number": 3,
+        "questionZh": "今天你能在哪一項經常拖延的事上展現立即負責的行動？",
+        "promptZh": "不找藉口，現在就動手完成。",
+        "placeholderZh": "今天放學回家立刻寫完數學講義...",
+        "suggestedThoughts": ["立刻行動", "戰勝藉口"]
+      }
+    ],
+    "activityId": "ACT_004_RESPONSIBILITY_FINISH",
+    "assessmentId": "ASSESS_V004_Q1",
+    "assessmentIds": [
+      "ASSESS_V004_Q1",
+      "ASSESS_V004_Q2",
+      "ASSESS_V004_Q3"
+    ],
+    "welcomeData": {
+      "bannerTitleZh": "今日美德：責任 Responsibility",
+      "subtitleZh": "忠心做好交託給自己的每一件大小任務，不卸責、不推託，對神對人坦蕩負責。",
+      "definitionZh": "忠心做好交託給自己的每一件大小任務，不卸責、不推託，對神對人坦蕩負責。",
+      "definitionEn": "Being faithful and dependable in every duty entrusted to you, without excuses.",
+      "estimatedMinutes": 8,
+      "learningGoals": ["認識約瑟在逆境中的忠誠", "默記歌羅西書 3:23", "落實今日負責微行動"],
+      "warmupQuestionZh": "你曾因為別人不守承諾而受傷過嗎？這如何提醒我們要成為可靠的人？"
+    },
+    "completionData": {
+      "congratsTitleZh": "恭喜！你完成了 Responsibility 責任課程。",
+      "congratsSubtitleZh": "你在神與人面前樹立了忠心可靠的青年模範！",
+      "encouragementMessageZh": "你認真做好的每一件小事，神都看在眼裡，並要在未來托付你更大的榮耀使命！",
+      "bibleBlessingZh": "「無論做什麼，都要從心裡做，像是給主做的，不是給人做的。」— 歌羅西書 3:23"
+    }
+  },
+  {
+    "lessonId": "LESSON_V005_PERSEVERANCE",
+    "virtueId": "V005",
+    "titleZh": "毅力 Perseverance：保羅向著標竿直跑的堅持與堅毅",
+    "titleEn": "Perseverance: Paul Finishing the Race",
+    "steps": [
+      { "id": 1, "key": "welcome", "titleZh": "歡迎導讀", "titleEn": "Welcome", "shortDescZh": "今日美德：毅力 Perseverance" },
+      { "id": 2, "key": "story", "titleZh": "聖經故事", "titleEn": "Bible Story", "shortDescZh": "保羅的堅忍宣教路 (Paul's Perseverance)" },
+      { "id": 3, "key": "verse", "titleZh": "核心金句", "titleEn": "Bible Verse", "shortDescZh": "加拉太書 6:9" },
+      { "id": 4, "key": "reflect", "titleZh": "深思時間", "titleEn": "Think & Reflect", "shortDescZh": "在疲憊中尋求加力" },
+      { "id": 5, "key": "challenge", "titleZh": "毅力挑戰", "titleEn": "Perseverance Challenge", "shortDescZh": "多走一里路的堅持操練" },
+      { "id": 6, "key": "quiz", "titleZh": "情境測驗", "titleEn": "Mini Quiz", "shortDescZh": "情境測驗" },
+      { "id": 7, "key": "completion", "titleZh": "結業成就", "titleEn": "Completion", "shortDescZh": "總結與勉勵" }
+    ],
+    "bibleStoryId": "STORY_005_PAUL_FINISH_RACE",
+    "verseIds": [
+      "VERSE_006_GAL6_9"
+    ],
+    "reflectionQuestions": [
+      {
+        "id": "q1-give-up-urge",
+        "number": 1,
+        "questionZh": "當努力很久但成績或成果不如預期時，是什麼讓你想要放棄？",
+        "promptZh": "承認自己的沮喪與軟弱，是尋求神加力的起點。",
+        "placeholderZh": "常覺得自己付出那麼多卻沒人看見，開始懷疑努力的意義...",
+        "suggestedThoughts": ["調適得失心", "依靠神更新力量"]
+      },
+      {
+        "id": "q2-galatians-promise",
+        "number": 2,
+        "questionZh": "聖經提醒行善若不灰心到了時候就要收成，這如何安慰你的心？",
+        "promptZh": "神的時間表與我們不同，每一滴眼淚與汗水都不會白費。",
+        "placeholderZh": "提醒我不要只看眼前的挫折，要相信神預備的收割之日...",
+        "suggestedThoughts": ["堅定信心", "仰望永恆賞賜"]
+      },
+      {
+        "id": "q3-habit-persevere",
+        "number": 3,
+        "questionZh": "今天你可以為一項想要放棄的好習慣做怎樣的毅力堅持禱告？",
+        "promptZh": "把軟弱告訴神，求祂賜下再堅持一天的毅力與力量。",
+        "placeholderZh": "求主幫助我每天早起讀經禱告不要中斷...",
+        "suggestedThoughts": ["持之以恆", "每天多前進一步"]
+      }
+    ],
+    "activityId": "ACT_005_PERSEVERANCE_PERSIST",
+    "assessmentId": "ASSESS_V005_Q1",
+    "assessmentIds": [
+      "ASSESS_V005_Q1",
+      "ASSESS_V005_Q2",
+      "ASSESS_V005_Q3"
+    ],
+    "welcomeData": {
+      "bannerTitleZh": "今日美德：毅力 Perseverance",
+      "subtitleZh": "在逆境、疲憊或看不見即時成果時，因著對神的盼望持守善良與努力，直到收成之日。",
+      "definitionZh": "在逆境、疲憊或看不見即時成果時，因著對神的盼望持守善良與努力，直到收成之日。",
+      "definitionEn": "Continuing faithfully in doing good through hardship and fatigue, holding firm hope in God.",
+      "estimatedMinutes": 8,
+      "learningGoals": ["學習保羅跑盡當跑之路的堅毅", "背誦加拉太書 6:9", "突破當前的放棄誘惑"],
+      "warmupQuestionZh": "你曾經在哪件事上堅持到底並嚐到甘甜的成果？那份堅持帶給你什麼體會？"
+    },
+    "completionData": {
+      "congratsTitleZh": "恭喜！你完成了 Perseverance 毅力課程。",
+      "congratsSubtitleZh": "你已經裝備了奔跑天路、永不放棄的剛毅之盾！",
+      "encouragementMessageZh": "行善不可喪志，若不灰心到了時候必定收成！加油，神一直在終點為你歡呼！",
+      "bibleBlessingZh": "「我們行善，不可喪志；若不灰心，到了時候就要收成。」— 加拉太書 6:9"
+    }
+  }
+]

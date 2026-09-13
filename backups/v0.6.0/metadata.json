@@ -1,0 +1,6 @@
+{
+  "name": "VELS Mini",
+  "description": "VELS Mini - Bible Character Education AI Web App (Virtue Education Learning System) 為中學生設計的聖經品格教育學習平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

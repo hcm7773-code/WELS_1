@@ -1,0 +1,180 @@
+[
+  {
+    "activityId": "ACT_001_COURAGE_DAILY",
+    "virtueId": "V001",
+    "title": "今日勇氣挑戰 Courage Challenge",
+    "description": "把聖經的教導轉化為真實生活的行動，今天勇敢做一件正確但有點困難的事情！",
+    "difficulty": "Medium",
+    "completionCriteria": "從 3 個勇氣微行動中挑選一項於校園或生活中實踐，並在 App 內完成反思承諾打卡。",
+    "titleZh": "今日勇氣挑戰 Courage Challenge",
+    "titleEn": "Today's Courage Challenge",
+    "subtitleZh": "把聖經的教導轉化為真實生活的行動，今天勇敢做一件正確但有點困難的事情！",
+    "challengeCoreStatement": "今天勇敢做一件正確但有點困難的事情。",
+    "actionOptions": [
+      {
+        "id": "action-kindness",
+        "category": "同儕友好",
+        "titleZh": "主動向一位落單或不常說話的同學微笑打招呼",
+        "descZh": "跨出自己舒適的社交小圈子，給需要溫暖的同學一句真誠的問候或讚美。",
+        "difficulty": "輕鬆嘗試"
+      },
+      {
+        "id": "action-integrity",
+        "category": "堅持正義",
+        "titleZh": "面對不合宜的八卦或嘲弄時，勇敢不跟風並轉換話題",
+        "descZh": "當身邊的人在背後議論他人時，溫和地說「我們換個話題聊吧」或選擇不隨之起舞。",
+        "difficulty": "中度挑戰"
+      },
+      {
+        "id": "action-honesty",
+        "category": "真誠坦白",
+        "titleZh": "勇敢承認一項自己近期做錯或拖延的小事，並真誠道歉",
+        "descZh": "不再找藉口掩飾，主動向父母、老師或朋友說明實情，修復彼此的信任。",
+        "difficulty": "突破自我"
+      }
+    ],
+    "badgeName": "大衛勇者徽章 (David Courage Star)",
+    "badgeDescription": "恭喜！你踏出了生命實踐的重要一步，活出以神為依靠的剛強勇氣！",
+    "commitmentTipsZh": [
+      "行動前在心中默默禱告一句：「主啊，賜我像大衛一樣剛強仁愛的心。」",
+      "不需要驚天動地，哪怕只是一句真誠的話，就是了不起的勇氣！",
+      "記住：只要做的是對的事，神一定與你同行！"
+    ]
+  },
+  {
+    "activityId": "ACT_002_HONESTY_TRUTH",
+    "virtueId": "V002",
+    "title": "今日誠實正直挑戰 Honesty Challenge",
+    "description": "在說真話可能讓人不悅或自己吃虧的時刻，選擇以愛心說誠實話，言行一致。",
+    "difficulty": "Medium",
+    "completionCriteria": "今天在所有對話與課業中完全獨立誠實作答，不說一句虛假敷衍的話，並完成打卡承諾。",
+    "titleZh": "今日誠實正直挑戰 Honesty Challenge",
+    "titleEn": "Today's Honesty Challenge",
+    "subtitleZh": "在說真話可能讓人不悅或自己吃虧的時刻，選擇以愛心說誠實話。",
+    "challengeCoreStatement": "今天在所有對話與功課中，言行一致、不說一句虛假敷衍的話。",
+    "actionOptions": [
+      {
+        "id": "honesty-action-1",
+        "category": "學業誠信",
+        "titleZh": "完全獨立完成今日作業，遇到不會的題勇敢向老師或同學請教",
+        "descZh": "不抄襲、不走捷徑，誠實面對自己的學習狀態。",
+        "difficulty": "輕鬆嘗試"
+      },
+      {
+        "id": "honesty-action-2",
+        "category": "言語誠實",
+        "titleZh": "在聊天中避免誇大其詞或迎合誇飾，實話實說",
+        "descZh": "真誠表達自己真實的想法與感受，不說好聽的假話。",
+        "difficulty": "中度挑戰"
+      }
+    ],
+    "badgeName": "但以理正直之印 (Daniel Integrity Seal)",
+    "badgeDescription": "在隱密處依然持守純全正直，成為神所喜悅的誠實人！",
+    "commitmentTipsZh": [
+      "說實話時帶著溫柔與愛心，而不是用實話攻擊人。",
+      "若發現自己不小心說了謊，在 10 分鐘內主動坦誠更正。"
+    ]
+  },
+  {
+    "activityId": "ACT_003_COMPASSION_CARE",
+    "virtueId": "V003",
+    "title": "今日同情心送暖挑戰 Compassion Challenge",
+    "description": "效法好撒馬利亞人，看見別人的需要並採取一個具體善行，跨越冷漠與偏見。",
+    "difficulty": "Easy",
+    "completionCriteria": "主動向一位心情低落或需要幫助的人表達實質關懷或相助，完成打卡紀錄。",
+    "titleZh": "今日同情心送暖挑戰 Compassion Challenge",
+    "titleEn": "Today's Compassion Challenge",
+    "subtitleZh": "效法好撒馬利亞人，看見別人的需要並採取一個具體善行。",
+    "challengeCoreStatement": "今天主動關懷一位心情低落或遇到困難的身邊人。",
+    "actionOptions": [
+      {
+        "id": "compassion-action-1",
+        "category": "溫暖傾聽",
+        "titleZh": "為一位看起來疲憊或難過的朋友遞上一張打氣紙條或小點心",
+        "descZh": "不用長篇大論，一句「今天辛苦了，為你加油」就是無比的安慰。",
+        "difficulty": "輕鬆嘗試"
+      },
+      {
+        "id": "compassion-action-2",
+        "category": "實質相助",
+        "titleZh": "主動協助同學解決一項難題（如整理筆記、拿課本或值日清掃）",
+        "descZh": "不求回報地分擔他人的重擔。",
+        "difficulty": "中度挑戰"
+      }
+    ],
+    "badgeName": "好撒馬利亞慈心徽章 (Good Samaritan Badge)",
+    "badgeDescription": "你的愛心如明光照亮校園角落，彰顯基督的憐憫恩慈！",
+    "commitmentTipsZh": [
+      "用心觀察身邊同學的表情與動作，看見隱藏的需要。",
+      "愛要常在細微處彰顯，不求引人注目。"
+    ]
+  },
+  {
+    "activityId": "ACT_004_RESPONSIBILITY_FINISH",
+    "virtueId": "V004",
+    "title": "今日責任擔當挑戰 Responsibility Challenge",
+    "description": "像約瑟一樣忠心管理自己的時間與職責，不找藉口，把每一件大小事做到最好。",
+    "difficulty": "Medium",
+    "completionCriteria": "設定番茄鐘或專注時段，零藉口、零拖延地完成一項原本想逃避的重要待辦責任。",
+    "titleZh": "今日責任擔當挑戰 Responsibility Challenge",
+    "titleEn": "Today's Responsibility Challenge",
+    "subtitleZh": "像約瑟一樣忠心管理自己的時間與職責，不找藉口，使命必達。",
+    "challengeCoreStatement": "今天立刻完成一件一直拖延或想逃避的重要待辦事項。",
+    "actionOptions": [
+      {
+        "id": "responsibility-action-1",
+        "category": "克服拖延",
+        "titleZh": "設定 25 分鐘計時器，不碰手機，一口氣完成最棘手的作業",
+        "descZh": "將精力專注於當下的責任，體驗專注完成的踏實成就感。",
+        "difficulty": "輕鬆嘗試"
+      },
+      {
+        "id": "responsibility-action-2",
+        "category": "家庭責任",
+        "titleZh": "主動承擔一項家務（如洗碗、倒垃圾或整理房間）而不需要父母催促",
+        "descZh": "成為家庭中成熟可靠的一分子。",
+        "difficulty": "中度挑戰"
+      }
+    ],
+    "badgeName": "約瑟忠信管家之星 (Joseph Stewardship Star)",
+    "badgeDescription": "在小事上忠心的大事也忠心，展現成熟負責任的生命榜樣！",
+    "commitmentTipsZh": [
+      "做完事情前絕不輕易分心。",
+      "把責任看作神給予自己的信任與操練機會。"
+    ]
+  },
+  {
+    "activityId": "ACT_005_PERSEVERANCE_PERSIST",
+    "virtueId": "V005",
+    "title": "今日毅力長跑挑戰 Perseverance Challenge",
+    "description": "在想放棄的瓶頸期多堅持 10 分鐘，將信心交託給神，行善不可喪志。",
+    "difficulty": "Hard",
+    "completionCriteria": "在面臨枯燥或挫敗的學習與習慣中，堅持多付出 15 分鐘不輕言放棄，完成打卡宣告。",
+    "titleZh": "今日毅力長跑挑戰 Perseverance Challenge",
+    "titleEn": "Today's Perseverance Challenge",
+    "subtitleZh": "在想放棄的瓶頸期多堅持 10 分鐘，將信心交託給神。",
+    "challengeCoreStatement": "今天在面對感到枯燥或想放棄的一件事上，堅持多跨出一步。",
+    "actionOptions": [
+      {
+        "id": "perseverance-action-1",
+        "category": "耐心持守",
+        "titleZh": "在讀書遇到難題想放棄時，深呼吸禱告後再堅持研究 15 分鐘",
+        "descZh": "培養突破瓶頸的堅毅耐力，不向挫折輕言投降。",
+        "difficulty": "輕鬆嘗試"
+      },
+      {
+        "id": "perseverance-action-2",
+        "category": "恆久行善",
+        "titleZh": "為一段緊張的人際關係或一個好習慣，默默堅持禱告一週不中斷",
+        "descZh": "在看似沒變化的日子裡，深信神正在動工。",
+        "difficulty": "中度挑戰"
+      }
+    ],
+    "badgeName": "保羅奔跑得勝冠冕 (Paul Victory Crown)",
+    "badgeDescription": "行善不灰心，到了時候必定收成！你展現了永不放棄的堅定信仰！",
+    "commitmentTipsZh": [
+      "告訴自己：「只差一步，靠著主我一定能再走一段路！」",
+      "記錄每天的小進步，為微小的累積獻上感謝。"
+    ]
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "assessmentId": "ASSESS_V001_Q1",
+    "lessonId": "LESSON_V001_COURAGE",
+    "virtueId": "V001",
+    "scenarioZh": "下課時，有幾位同班同學在走廊上大聲嘲笑一位內向同學的穿著，並拉攏你一起加入起鬨。",
+    "question": "展現聖經所教導的「剛強勇氣」，最合宜的回應是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "為了不被同儕排擠，假裝沒聽見快步走開，私底下再傳訊息給被嘲笑的同學"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "溫和但堅定地向大家說：「我覺得這樣開玩笑不尊重人，我們換個話題吧」，並走過去關心該名同學"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "立刻用更難聽的話大聲辱罵起鬨的同學，替受害者出一口氣"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "一起加入笑幾聲，心裡想著「只要我不是發起人就沒關係」"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "大衛迎戰歌利亞是因著敬畏神與堅持真理，而非盲目的血氣衝動。溫和堅定地拒絕參與惡行並保護同儕尊嚴，既有堅持公義的勇氣，又兼具溫柔智慧。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "真正的勇氣是堅持做對的事，拒絕隨波逐流，用愛心說誠實話。"
+  },
+  {
+    "assessmentId": "ASSESS_V001_Q2",
+    "lessonId": "LESSON_V001_COURAGE",
+    "virtueId": "V001",
+    "scenarioZh": "掃羅王想將自己貴重的銅盔和鐵甲給大衛穿上，但大衛最後選擇脫去鎧甲。",
+    "question": "大衛為何脫去掃羅的鎧甲，只帶著牧羊杖、機弦與小石子？這給中學生什麼啟發？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "大衛太過驕傲自滿，覺得自己不需要任何保護"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "大衛明白不該盲目套用別人外在的成功模式，而是忠心使用神平日裝備給他的恩賜，全然倚靠神"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "因為掃羅的鎧甲顏色不好看，大衛想穿更帥氣的衣服"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "大衛只想碰運氣隨便試試看，沒有認真考慮後果"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "掃羅的鎧甲象徵世俗依靠的外在包裝與權威。年少的大衛沒有迎合大人的眼光穿上不合身的裝備，而是誠實做自己，靠著在曠野中磨練出的信靠與機弦技巧得勝。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "不要在同儕眼光中迷失自我，神給你的獨特恩賜加上信心就是最大的力量。"
+  },
+  {
+    "assessmentId": "ASSESS_V001_Q3",
+    "lessonId": "LESSON_V001_COURAGE",
+    "virtueId": "V001",
+    "scenarioZh": "根據撒母耳記上 17:45 大衛對歌利亞宣告的經文。",
+    "question": "在撒母耳記上 17:45 中，大衛勝過非利士巨人的「核心底氣」是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "他手上挑選的五塊溪石比對方的刀槍更硬"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "他年輕力壯、跑得比重甲巨人還要快"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "他並非靠刀槍銅戟，而是靠著萬軍之耶和華的名"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "他得到了以色列士兵們熱烈的鼓掌與支持"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "經文直接指出：「你來攻擊我，是靠著刀槍和銅戟；我來攻擊你，是靠著萬軍之耶和華的名！」大衛深知神的大能遠超越世上可見的一切武力與威脅。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "信仰使我們在巨人面前不自卑、在逆境中不膽怯。"
+  },
+  {
+    "assessmentId": "ASSESS_V002_Q1",
+    "lessonId": "LESSON_V002_HONESTY",
+    "virtueId": "V002",
+    "scenarioZh": "在期中考時，鄰座的要好朋友悄悄遞過來一張紙條想偷看你的答案。",
+    "question": "基於但以理的正直品格，最健康的處理方式是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "立刻幫他寫答案，覺得這才是夠義氣的好兄弟"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "考場上堅定拒絕傳遞紙條，考後主動向他說明並願意放學後陪他複習課業"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "考完後在班級群組裡公開嘲笑他作弊"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "自己也趁機抄他的答案"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "行事誠實不作弊是持守神喜悅的原則，考後主動陪伴輔導則是兼顧友誼的愛心做法。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "真正的友情不需要靠違背原則來維持，用愛心說誠實話。"
+  },
+  {
+    "assessmentId": "ASSESS_V002_Q2",
+    "lessonId": "LESSON_V002_HONESTY",
+    "virtueId": "V002",
+    "scenarioZh": "但以理書記載，朝廷官員想找但以理治理國事的把柄，結果如何？",
+    "question": "聖經如何描述但以理的辦事態度與品行？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "官員找到了他偷改帳本的證據"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "但以理私下送禮物給其他官員擺平了事情"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "找不著他的錯誤過失，因他忠心辦事，毫無錯誤過失"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "但以理因為心虛逃跑到了曠野"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "但以理書 6:4 記載：「只是找不著他的錯誤過失，因他忠心辦事，毫無錯誤過失。」這彰顯了一個人在暗處和明處皆有一致的誠實品格。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "言行一致、表裡如一的誠實，在任何環境中都能成為神的見證。"
+  },
+  {
+    "assessmentId": "ASSESS_V002_Q3",
+    "lessonId": "LESSON_V002_HONESTY",
+    "virtueId": "V002",
+    "scenarioZh": "箴言 12:22 說：「說謊言的嘴為耶和化所憎惡；行事誠實的，為他所喜悅。」",
+    "question": "這句經文提醒中學生，在日常生活追求「誠實」的最大動力應該是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "只是為了逃避被校長處罰或記過"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "知道神看重內心的真實，行事誠實能夠討神的喜悅，得著良心的自由平安"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "為了在社交媒體上宣傳自己是個完美的人"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "只要沒有人看見，偶爾說一點點謊言也是可以的"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "聖經提醒我們，誠實的終極對象是神。敬畏神的人明白神鑒察人心，誠實不是外在表演，而是渴望行在真理光中、蒙神喜悅的生活方式。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "敬畏神是維持內心純潔與誠實行動的根本動力。"
+  },
+  {
+    "assessmentId": "ASSESS_V003_Q1",
+    "lessonId": "LESSON_V003_COMPASSION",
+    "virtueId": "V003",
+    "scenarioZh": "班上一位平時成績不理想且不善社交的同學，在體育課時不小心跌倒扭傷腳踝。",
+    "question": "效法好撒馬利亞人的同情心（憐憫心腸），你會採取什麼行動？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "看大家都在笑，也跟著笑免得自己格格不入"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "主動上前攙扶他到保健室，並幫他把掉落的球具整理好送回"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "裝作沒看見，心想體育老師等一下自己會來處理"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "拍照上傳社群限時動態開玩笑"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "好撒馬利亞人看見受傷的人便動了慈心，放下自己的日程上前照顧。主動施以援手是活出同情心與基督憐憫之愛的體現。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "同情心（好憐憫）就是看見別人的需要，並用雙手化為實質幫助。"
+  },
+  {
+    "assessmentId": "ASSESS_V003_Q2",
+    "lessonId": "LESSON_V003_COMPASSION",
+    "virtueId": "V003",
+    "scenarioZh": "在耶穌講的好撒馬利亞人比喻中，祭司和利未人看見受傷的同胞為什麼都繞道走開？",
+    "question": "這個故事給身為中學生的我們最深刻的反省是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "說明我們出門時一定要隨身攜帶急救包"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "說明宗教知識若沒有化為真實的愛心與行動，就毫無意義；我們不能用任何藉口對他人的痛苦視而不見"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "說明受傷的人應該自己承擔責任，不要依賴路人"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "說明撒馬利亞人比所有人都富有"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "祭司和利未人擁有最高的宗教知識與地位，卻缺乏實踐愛心的同情心（憐憫）。耶穌藉此教導我們，真正的信仰必然表現在對困苦之人的切實相助中。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "真信仰是帶著同情心與行動的心，而非冷漠的旁觀者。"
+  },
+  {
+    "assessmentId": "ASSESS_V003_Q3",
+    "lessonId": "LESSON_V003_COMPASSION",
+    "virtueId": "V003",
+    "scenarioZh": "彌迦書 6:8 吩咐我們要「行公義，好憐憫，存謙卑的心，與神同行」。",
+    "question": "經文中「好憐憫」（活出同情心）對中學生日常生活最核心的實踐意義是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "只要偶爾在重大節日捐款就好，平時不需要關心身邊的人"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "同情心（憐憫）是每天有意識地以基督的愛主動關懷身邊軟弱或孤單的人，化為及時溫暖的行動"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "同情心代表同情別人時要在言語上強調自己比別人優秀"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "只有等自己成為大人物後才需要去行出同情心"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "同情心與好憐憫不只是被動的情緒，而是每天有意識地以基督的愛主動關懷身邊軟弱或孤單的人，成為別人看得見的溫暖保護。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "同情心是基督徒每日在神愛中主動實踐的生命品格。"
+  },
+  {
+    "assessmentId": "ASSESS_V004_Q1",
+    "lessonId": "LESSON_V004_RESPONSIBILITY",
+    "virtueId": "V004",
+    "scenarioZh": "專題分組報告即將截止，組員各自分工，你負責的部分做起來特別繁瑣乏味。",
+    "question": "效法約瑟在小事上忠心的責任感，最佳態度是：",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "隨便複製貼上湊字數，反正老師不一定會逐字檢查"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "像約瑟一樣如給主做的心志，認真查證並準時繳交高品質的內容"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "直接在群組甩鍋給組長，說自己最近很忙做不完"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "等到最後一分鐘才跟組員說忘了這件事"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "無論做什麼都要從心裡做，像是給主做的。在細節上的忠心是品格成熟的重要標誌。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "人在最小的事上忠心，在大事上也忠心。"
+  },
+  {
+    "assessmentId": "ASSESS_V004_Q2",
+    "lessonId": "LESSON_V004_RESPONSIBILITY",
+    "virtueId": "V004",
+    "scenarioZh": "約瑟被下在埃及監獄時，他所處的環境極為惡劣且充滿冤屈。",
+    "question": "約瑟在監獄中的表現如何體現出責任與忠心的品格？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "他整天怨恨上帝，煽動其他囚犯暴動越獄"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "他依然忠心服事司獄與其他囚犯，凡事盡職負責，贏得眾人的信任"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "他賄賂獄卒給他換到單人牢房"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "他假裝生病躺平什麼事都不做"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "約瑟身處谷底依然持守敬虔與忠誠。真正的品格不取決於環境有多順利，而在於逆境中依然選擇對手頭的每一件小事盡職盡責。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "環境不能限制忠心；無論在哪裡，都要為主盡責做到最好。"
+  },
+  {
+    "assessmentId": "ASSESS_V004_Q3",
+    "lessonId": "LESSON_V004_RESPONSIBILITY",
+    "virtueId": "V004",
+    "scenarioZh": "歌羅西書 3:23 說：「無論做什麼，都要從心裡做，像是給主做的，不是給人做的。」",
+    "question": "對於中學生的生活而言，「像是給主做的」最貼切的體現是？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "每天按時起床、整理環境、認真做筆記、信守對朋友父母的小約定，在無人注意處也竭力做好"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "現在小事都不用管，只要等高中畢業再去拯救世界就好"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "只在有老師監督的時候才假裝認真，沒人看時就隨意敷衍"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "只要成績好，生活習慣再邋遢混亂、推卸責任也沒關係"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "把每件大小責任看作是為神而做，自然不會在無人監督時偷懶敷衍。在細節上的忠心是品格成熟的重要標誌。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "人在最小的事上忠心，在大事上也忠心。"
+  },
+  {
+    "assessmentId": "ASSESS_V005_Q1",
+    "lessonId": "LESSON_V005_PERSEVERANCE",
+    "virtueId": "V005",
+    "scenarioZh": "你為弱科數學連續努力了兩個月，但這次段考分數依然只進步了三分，內心感到極度挫折想放棄。",
+    "question": "依據保羅「行善不可喪志，若不灰心到了時候就要收成」的教導，應如何看待？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "徹底放棄數學，反正自己沒有這方面的天賦"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "肯定是老師出的題目太爛，直接向學校投訴"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "肯定這三分的進步，調整讀書策略並向神禱告求賜堅持的毅力，深信日積月累必有收成"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "整天鬱悶發呆，對其他科目也不再認真"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "堅忍的本質是在看不見顯著成果時依然忠心前行，把盼望放在神的應許與時間表上。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "生命的長跑不看一時的跌宕，看的是不灰心的堅持。"
+  },
+  {
+    "assessmentId": "ASSESS_V005_Q2",
+    "lessonId": "LESSON_V005_PERSEVERANCE",
+    "virtueId": "V005",
+    "scenarioZh": "使徒保羅在生命結束前寫信給提摩太總結一生（提摩太後書 4:7）。",
+    "question": "保羅能夠跑盡當跑之路的最關鍵心態是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "他靠著自己的超能力打敗了所有人"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "「那美好的仗我已經打過了，當跑的路我已經跑盡了，所信的道我已經守住了。」他至死忠心仰望主的榮耀冠冕"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "他抱怨神對他太不公平，讓他受了太多苦"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "他後悔自己當初不該信耶穌"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "保羅回顧一生，縱然傷痕累累，但他以打美好的仗、跑盡當跑的路為榮，堅守信仰至終，為所有基督徒樹立了堅忍不拔的標杆。",
+    "difficulty": "Medium",
+    "virtuePrinciple": "堅持的終點是公義的冠冕與神稱許的喜樂。"
+  },
+  {
+    "assessmentId": "ASSESS_V005_Q3",
+    "lessonId": "LESSON_V005_PERSEVERANCE",
+    "virtueId": "V005",
+    "scenarioZh": "加拉太書 6:9 提醒：「我們行善，不可喪志；若不灰心，到了時候就要收成。」",
+    "question": "這句經文對面臨學業和品格成長的中學生，最大的心理建設是什麼？",
+    "options": [
+      {
+        "id": "A",
+        "label": "A",
+        "textZh": "成果常常需要時間孕育，不要因為眼前暫時看不到進步就放棄行善或努力，神的時候到了必定收成"
+      },
+      {
+        "id": "B",
+        "label": "B",
+        "textZh": "只要今天禱告，明天立刻就能不勞而獲考全校第一名"
+      },
+      {
+        "id": "C",
+        "label": "C",
+        "textZh": "行善如果沒有立刻拿到好處，就應該立刻停下來"
+      },
+      {
+        "id": "D",
+        "label": "D",
+        "textZh": "收成只屬於天生聰明幸運的人，平凡人不用嘗試"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "生命的收穫如植物生長，需要耐性與澆灌。經文特別提醒「到了時候 (at the proper time)」，培養我們在逆境與沉潛期依然持守善道、不灰心的毅力。",
+    "difficulty": "Easy",
+    "virtuePrinciple": "堅毅是在信心中等候神的時間，持續耕耘不放棄。"
+  }
+]
